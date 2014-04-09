@@ -2,7 +2,7 @@
 lock '3.1.0'
 
 set :application, 'click'
-set :repo_url, 'https://github.com/ffloyd/click.git'
+set :repo_url, 'git@github.com:ffloyd/click.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
