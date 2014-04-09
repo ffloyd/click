@@ -1,0 +1,1 @@
+@clickApp = angular.module('clickApp', ['ui.bootstrap'])
